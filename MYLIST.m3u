@@ -3,20 +3,25 @@
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário
 https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=e9bfa327a3d839cecb39233e5e4ba5524e0b2e17-905fe9dbb5ae0ba25fd0fb9acee60552-1672969565-1672364765
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário Opção 2
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUUYYTJboHgWngtg4eypAfkmJ_Gf5KYduAOy0-Vjf2bm)/dm/3/x7txn7q/s/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="RN", InterTV Cabugi
 https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=68e82fc854af3df6ff11b021559ae409f7163d80-6871d792475a117b6a2b04d4381ae944-1672969068-1672364268
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Variedades", Warner TV
+https://cdn.ittv.com.br/WBTV_Brasil/tracks-v3a1/mono.m3u8?token=a94c76b34db76425126a757de2b91c809c833e68-6901b7d520ce9fe9d010b6a0ff384463-1673016162-1672411362
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="RN", Band RN
 https://transc-digicontrol-01-ittv.akamaized.net/BAND_RN_HD/tracks-v3a1/mono.m3u8?token=bfa9df631ffd5c18c65e5f84445ab63c53056055-ed960ffa83d57ee293f9acbb207d845d-1672969430-1672364630
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="RN", Band RN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="RN", TV Ponta Negra
 https://transc-digicontrol-01-ittv.akamaized.net/TV_PONTA_NEGRA/tracks-v2a1/mono.m3u8?token=da5840f894126ca5107cd31dd09b4d40d5c7404b-cf6f297f6afb8c51a524920fa74c879a-1672969503-1672364703
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Variedades", TV Ceará
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sgp.telecab.com.br/media/img/LOGO_zNZKN2x.png" group-title="RN", Telecab
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/62oKj7CVDxjq8ancWDNzXNQ26yHVufFZ87vrCoEFznD-hUnXYetLEfAKWeIlStruA4-RmvsXVQ=s800-c-k-c0x00ffffff-no-rj" group-title="RN", Telecab Assú
 https://video-weaver.for01.hls.ttvnw.net/v1/playlist/Cq4F6YeTtHhY67XcVciwLcUj5ynW5QEKco0kttnoI9bxP2yzp7goqzoX_OFJArje3CIP0xIzMjmJQpfTl05igGmNkx5mHVsMAY7LDJK6ygPXaVGdbc8mWVAt3meVaLKinIy4afwyEriNVzj4tawjub58Oxh-mL9vcu1rS34iOj6hI1bGpFPnvSsqIA3bIym7DtC_a4MCPEJM6-Uy_qoIqt0JfuRcslb_5OeeCMNjbHl1JdhIgzNo4EAc_AQVN2h6H1JQGaAuYI1OoX3XTG8NIVevYknq6gkNw97AQlRL4ttZzfsr5YJdZhF1vtj94kSQr4_ZszayWMEpQ7ahHfddernszfetkLErTLLf8Dboy6aGYyB2HhdlDZWvQm82CQf2AM0KxXn4WMa89DgFDVzQ9Z-d3faapsJ4pHYz6VFsWDmWuyYTsEWJKCesleRxHzKB_y-6-TOUp8umnnL04_AF-iUKlWt_sgHOfCDgOG3UeRQ45V4FukQKhGNAZ6f0zXsb3bQcIzJrtlwxDV2O6-iKXzvTu59_bRMn2yL1wZH0a7d-NKV9k23dbW_oDopOBSgLFVsHSGHmIQzAHaoQQrfTogPPzmE4dlPrHDXTwoJMPl_12SpvCZJ1d9zH0FRmsIQ81i3PO6zWYFyxUO6DmCmU2zweMvKOnUJXEpl5BuypyWh80m3j5ThNYCqFi__3lyxdIC5kk3DEA2QObBDayqqMNjtvUp7wj4c796mJsSw8L07njYQbXIH1qfW0BnPNEVymfnxC8DxetlA4qs3C35c4htdGYKZUl5XcfMj_Nm3AZPQaU5cNUr-FmT1naKMi6CxRvIYE6AT0kw2gkmCZ-7xGFN5leGnReSYox0BLRR691zybwFiZ9gRI2aaVJLzOTbZTAkob1iIKLp1F4gLD6stHWU8aDEPpd_oghtpHiU0eVyABKgl1cy1lYXN0LTEw9QM.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sidys.com.br/pacotes/img/sidystv.jpg" group-title="RN", Sidys
@@ -98,8 +103,11 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT 2
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="RN", TV Trocpial Record
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", TV Record RN
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logicahost.com.br/uploads/parceiros/0000007_small_tropical.webp" group-title="RN", TV Trocpial RN
+https://transc-digicontrol-01-ittv.akamaized.net/TV_TROPICAL_HD/tracks-v3a1/mono.m3u8?token=b2ea7b2a8d7823ce2a4407a1caeffbae0d37184c-ff6a1cc22db80fd26ff7f34577ec6472-1673015868-1672411068
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
