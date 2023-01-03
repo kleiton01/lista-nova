@@ -1,10 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg" group-title="Variedades", SPORTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2021/11/sportv-logo-1.jpg" group-title="Variedades", SPORTV2
+https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/sportv224ha_2000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário
 https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=e9bfa327a3d839cecb39233e5e4ba5524e0b2e17-905fe9dbb5ae0ba25fd0fb9acee60552-1672969565-1672364765
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário Opção 2
-https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZUUYYTJboHgWngtg4eypAfkmJ_Gf5KYduAOy0-Vjf2bm)/dm/3/x7txn7q/s/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="RN", InterTV Cabugi
 https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=68e82fc854af3df6ff11b021559ae409f7163d80-6871d792475a117b6a2b04d4381ae944-1672969068-1672364268
@@ -22,7 +25,7 @@ https://transc-digicontrol-01-ittv.akamaized.net/TV_PONTA_NEGRA/tracks-v2a1/mono
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/62oKj7CVDxjq8ancWDNzXNQ26yHVufFZ87vrCoEFznD-hUnXYetLEfAKWeIlStruA4-RmvsXVQ=s800-c-k-c0x00ffffff-no-rj" group-title="RN", Telecab Assú
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtsFRvzmfQt3eQWSpcU-efR0AhMWKPw7gQT6kycwILIaibK0CWZ0nctz54NM0byfDcE2bYsv8Zv21dEndXKK4H4F55GF8ppe8ANG2S-jKL29ufd6-mz2oLa4O7uW9ZwBVj0ECJ3sJIwaQVp8r9ha01J9XY-awHxYYi9Y_C2YR6WLDB_KXZIAd5t84ChnhgOp1d8b5ei_UsBlBYd4S93U7l86T-fPi5OmrkHVd7mdOaFA6DQfjUVLTcKb_4wHJmNwcO9bES3TM04mVJRpgQKroo_NMjpjTHDFQvkvEjpV5qAddHhN_QElUm7toY7ZsqjsLuDfv6IoqndPiKJzAOpe9yNZQ3orISeQyWCMHp-k1fHWmYqTXE42NgfZ9wWKVea6ZMw8McvLijBcCXouDT-o98I8fUE3j0uDeOHwLOFbM0UAqUrzgqGZv2Z0kEAIDhNBtpCxNrwWeLVEy7s2UnC2gQp-jyq2JO3xqCUvbtIuIhOeRtWYMMH4bt5xRbA4IoP_ocFgGf6f3JEId_eRp95231JOtYfK07nmEtYmbrZx_Kt0H9dt3nP8djrHEPIWtEdjw9974YYH9muFHAmENBHVeUkgU0uK5WhJQd34AnqPPGvZAmrx1NSn6TRYuPS9YgZtdKD7a3cYhcoTrxrBJJHvRf1LW9j1xOa6LWdwSO-Dwc3UTSQy3L0TNlIsZMW7HDgrf53RXHRQnvt_SqNkjZ9_tmodvWqyq0iOpTSl48WaNQNN0hr_3aERz6o5rY9tBWisLCJWM1xor-d2GErpnoshXOezqfcQIjQeY-FvTfeQyLeN3_RITPaca-k6h7aS6vAFq3XQjIM6JBBWFaED65BqNE0BCVkXSOlXbigJt3j4yyfmkbDwm8Dot1fziqAoah_xxGEgZm-6CZs5feJmi5Qprl18vJADcjcTITNXmcepbNJvDVrkr3-qW_5t219rIR1aMc-IdlXA9tzg_Mv1jd4aDHaspauNaxRRMheM_yABKgl1cy1lYXN0LTEw9gM.m3u8
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtsFWbv8loqBNkTJybyZpZcfH3xZQA-mSIiiD3tDJ921Aw_eOgmjV12h8Y3ZlGeZd8f8E1Ui7LWqiyzxaaVSoOSfe1GWXJ0OCh6ibA7A2az_5D5EF4N0Kbu0evPe7CiOMqbPhoFZjyKbKH8Fc4j_5dW7Vv4jOIYtffsACt0GQswF_RS2wGpiXT9Y8v4FEWb1f9h4luGDrJt5QLXGz8zsr_Y709wQ1mVRbQWOePILQn0eispJ8o7YCdXAozAW2PVMQG8L_v0yIXHGZqUKVuX0z6vG1eobIEIK3LMhBi3nbrq-PEgkN4_4D5i_jenNHK796Vz7UadUCqWdEkdm5nvB7i_XI1OiSmSqOCQnFMs-FCO-YG9M1-AoOpsZ9DmuA-93S3eBIDF0ru4kyYBSktBR_k0pT47ShHLu7K9SP3pho7kTnZx_aUhl9Z7YO5t3KJNlx5SrPVSGzKtYk4I3Mrr07XW9w5yHtpx40ePxCPsT3k14PcgXbyqgAsLK_HCP6r-Hl28hPuFs6rcCqA4h7b9d0LCaDD0L3vQDz-jgK8TfpTewOGNYFaTEoW0ebGZf2AsKUPsTzTX7kg-_NjBgclqKVgpDZpiDHTlzdpykhnqQOJL6WomcP9s9KkOilpgHQ3nbkjvPvgdTShuEz4o4csFgiuUg_-Su4OPoWY1vIebtPxkHkmTh7Qnjb6igH-Q9Y-XeO3dbvZGdUS6hCVfyx_Bzcoo7NR4CBQhIqgKFZ6U2xFmtcp3erMqyvBYaS5wWe4hnBc_EbIaSYcmiUvxr-_CKIKrdh2opME-uxJz2Xzd4jTBjOWPreXErXaUmkKp-8rpv6Km-ppIi7cpM4De9l7GJhSvSj_hnJX5hy6bbGUpY50NbLUEGt-WdH2BstTFs5hGAHSyK31O5UOVc4Rga7vxFFE6_25PdTDTKJVzkAEkGwYc5uQ4uIUcnuVvAnFZEW1nDlWPQ7LPmuA55y2a3RlQaDDT64K8Rl3rX3exuviABKgl1cy1lYXN0LTEw-gM.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sidys.com.br/pacotes/img/sidystv.jpg" group-title="RN", Sidys
 https://canal4stream.sidys.com.br/hls/canal4.m3u8
