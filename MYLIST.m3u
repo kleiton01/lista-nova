@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="#" group-title="Variedades", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
 
+#EXTINF:-1 tvg-logo="#" group-title="Variedades", TV Mecao
+https://flive.fnhr.us/63c068e294960aae371b097d/primary_MS432.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário
 https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=daae5cd13b3ae662cbe622779e1e08a1dc1abb54-7249460baf69dd33c09b17425bf1f7b3-1674230594-1673625794
 
