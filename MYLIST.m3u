@@ -3,35 +3,20 @@
 #EXTINF:-1 tvg-logo="#" group-title="Variedades", Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1500000.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="Variedades", Futebol 1
-https://play-1430-hls.raysports.live/restream/1-3857908-0.m3u8?sign=11fb4365e07c0fd6fc4859254a0f9b27&t=63c8dc43
-
-#EXTINF:-1 tvg-logo="#" group-title="Variedades", Futebol 2
-https://401368590.cloudvdn.com/a.m3u8?domain=play-1430-hls.raysports.live&player=HScAACJ9Wv1lkzsX&secondToken=secondToken%3ALeP0baF7GuqcQ_0RpUoEmDj5r6I&sign=2f27c0b3e5a141a2181a6c5a57431042&streamid=restream%3Arestream%2F1-3865992-0&t=63c8dcf6&v3=1
-
-#EXTINF:-1 tvg-logo="#" group-title="Variedades", Futebol 3
-https://401368590.cloudvdn.com/a.m3u8?domain=play-1430-hls.raysports.live&player=HScAAAmxIT5SkzsX&secondToken=secondToken%3AbkG2Q_1HIv0DFPBe8jHGgaJ0yZY&sign=34038fed21df82b589031ea20e59c766&streamid=restream%3Arestream%2F1-3858480-0&t=63c8dca1&v3=1
-
-#EXTINF:-1 tvg-logo="#" group-title="Variedades", Band Sports
-https://cdn.ittv.com.br/BAND_SPORTS/tracks-v2a1/mono.m3u8?token=6d7322ca4e8bfadc6c00f9644e47b03e4a3546ec-0f71964ae4a448b3b457fd8933d19301-1674670931-1674066131
-
-#EXTINF:-1 tvg-logo="#" group-title="Variedades", TV Mecao
-https://flive.fnhr.us/63c068e294960aae371b097d/primary_MS432.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="RN", Facil TV
+https://cdn.ittv.com.br/FACIL_TV/tracks-v1a1/mono.m3u8?token=5de9c60143dcf958df87dce256957e7a355af41b-0e725d736aeb0d63cd1575f7478247d3-1675387119-1674782319
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdiario.png" group-title="Variedades", TV Diário
 https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=daae5cd13b3ae662cbe622779e1e08a1dc1abb54-7249460baf69dd33c09b17425bf1f7b3-1674230594-1673625794
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="RN", InterTV Cabugi
-https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=61d1d529f94154403e9c68c26849c1e237dce4c8-7ea8ecd77ec1d6df8e842cedd483be20-1674230502-1673625702
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Variedades", Warner TV
-https://cdn.ittv.com.br/WBTV_Brasil/tracks-v3a1/mono.m3u8?token=3edfb9b60da71b131e52b06527337fa98f937d50-3c746cbf4ce6d7f667bb4cf153a0c3e5-1674230666-1673625866
+https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=3acab37344a4dbdf99add5d3d9db1f96cdc5fd9e-1439ecaaa6d233b482f83328a767a47d-1675387027-1674782227
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="RN", Band RN
-https://transc-digicontrol-01-ittv.akamaized.net/BAND_RN_HD/tracks-v3a1/mono.m3u8?token=c559d1593e7d6c9d9b3129e60fb0d19d682b7e72-72ef3c92943e2803536220b49b1e14b6-1674230533-1673625733
+https://transc-digicontrol-01-ittv.akamaized.net/BAND_RN_HD/tracks-v3a1/mono.m3u8?token=036d78608a94bd426ba206159481c5d7694cea36-319f082d3ae62afe3db16461f4ae29b4-1675387082-1674782282
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="RN", TV Ponta Negra
-https://transc-digicontrol-01-ittv.akamaized.net/TV_PONTA_NEGRA/tracks-v2a1/mono.m3u8?token=fde694573dcb0c4a95c9974226064bb96a52eb9d-8316d40bea940937678ea172436ba194-1674230633-1673625833
+https://transc-digicontrol-01-ittv.akamaized.net/TV_PONTA_NEGRA/tracks-v2a1/mono.m3u8?token=302fbc2dcd142af71d87a283c256432a613d469b-f6ba1496b606978191f6c862bd08fd11-1675387137-1674782337
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NI_-6GP-lPY/XH0RmmkgviI/AAAAAAABYCA/tzeVP9-5OTc6Ok2BllYM-966Z5ft4SP7wCLcBGAs/s640/TVC.png" group-title="Variedades", TV Ceará
 https://cdn.jmvstream.com/w/AVJ-9889/playlist/playlist.m3u8
