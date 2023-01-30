@@ -5,12 +5,10 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist
 
 
 #EXTINF:-1 tvg-logo="#" group-title="RN", BBB
-https://br.embedflix.net/p2p/bbb/chunks.m3u8?nimblesessionid=422764&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIzIDI6Mzc6MDAgQU0maGFzaF92YWx1ZT0xTXEyd1MrWDZmU1hTTnRDOGVoQjBnPT0mdmFsaWRtaW51dGVzPTkw
+https://br.embedflix.net/p2p/bbb/chunks.m3u8?nimblesessionid=692916&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIzIDI6MDE6MTIgQU0maGFzaF92YWx1ZT11NjdsZC9mYis1Y1VxQXF5KzZZeE9nPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-logo="#" group-title="RN", SporTV
-
 https://br.embedflix.net/p2p/sportv/chunks.m3u8?nimblesessionid=422909&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIzIDI6Mzk6MDYgQU0maGFzaF92YWx1ZT1zMXpyaTNaOFBoV1E3bThlTEhtOUN3PT0mdmFsaWRtaW51dGVzPTkw
-
 
 #EXTINF:-1 tvg-logo="#" group-title="RN", Facil TV
 https://cdn.ittv.com.br/FACIL_TV/tracks-v1a1/mono.m3u8?token=5de9c60143dcf958df87dce256957e7a355af41b-0e725d736aeb0d63cd1575f7478247d3-1675387119-1674782319
@@ -19,7 +17,7 @@ https://cdn.ittv.com.br/FACIL_TV/tracks-v1a1/mono.m3u8?token=5de9c60143dcf958df8
 https://cdn.ittv.com.br/TV_DIARIO/tracks-v1a1/mono.m3u8?token=daae5cd13b3ae662cbe622779e1e08a1dc1abb54-7249460baf69dd33c09b17425bf1f7b3-1674230594-1673625794
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_InterTV.png" group-title="RN", InterTV Cabugi
-https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=3acab37344a4dbdf99add5d3d9db1f96cdc5fd9e-1439ecaaa6d233b482f83328a767a47d-1675387027-1674782227
+https://transc-digicontrol-01-ittv.akamaized.net/CABUGI_HD/tracks-v3a1/mono.m3u8?token=5a8ac881bae1aead55a1967a098cd980bfb03df0-fef60e3f932efdcef16f18dc5d5eacad-1675648236-1675043436
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="RN", Band RN
 https://transc-digicontrol-01-ittv.akamaized.net/BAND_RN_HD/tracks-v3a1/mono.m3u8?token=036d78608a94bd426ba206159481c5d7694cea36-319f082d3ae62afe3db16461f4ae29b4-1675387082-1674782282
